@@ -1,5 +1,3 @@
-![Weather App Banner](assets/banner.png)
-
 # Weather App 🌤️
 
 A simple, colorful command-line weather application that fetches real-time weather data using the OpenWeatherMap API.
